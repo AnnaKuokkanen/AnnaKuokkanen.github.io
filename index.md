@@ -28,6 +28,6 @@ This a Java Gradle project with JUnit tests.
 
 ## Course planner
 
-**Project at:**
+[**Project here**](https://github.com/AnnaKuokkanen/Kurssiseuranta)
 
-This project is a web application using Python and Flask. The main goal was to implement a database (PostgreSQL)
+This project is a web application using Python, Flask and SQLAlchemy. The application is running in Heroku. The main goal was to practice building database-based applications. In this project POstgreSQL is used.
