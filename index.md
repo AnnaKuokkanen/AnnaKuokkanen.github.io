@@ -4,7 +4,7 @@ All of these projects I have either done for fun or as school work.
 
 ### Assembler
 
-Project at: 
+**Project at:** 
 
 Assembler is a tool for automated group splitting. Its features are course creation for teachers and course registration for students. Then the teacher could split students into groups of certain size and Assembler formed the groups so that the group members' schedules matched as well as possible. We implemented new features in the front end and the back end as well as a new algorithm for splitting groups. 
 
@@ -20,7 +20,7 @@ Tech stack:
 
 ### Chess Game
 
-Project at: 
+**Project at:** 
 
 I implemented the Minimax algorithm with alpha-beta pruning and used a pre-made template for the graphics of the game.
 
@@ -28,6 +28,6 @@ This a Java Gradle project with JUnit tests.
 
 ### Course planner
 
-Project at: 
+**Project at:**
 
 This project is a web application using Python and Flask. The main goal was to implement a database (PostgreSQL)
