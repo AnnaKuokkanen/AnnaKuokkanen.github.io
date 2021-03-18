@@ -4,7 +4,7 @@ All of these projects I have either done for fun or as school work.
 
 ## Assembler
 
-**Project at:** 
+[**Project here**](https://github.com/UniversityOfHelsinkiCS/prkl) 
 
 Assembler is a tool for automated group splitting. Its features are course creation for teachers and course registration for students. Then the teacher could split students into groups of certain size and Assembler formed the groups so that the group members' schedules matched as well as possible. We implemented new features in the front end and the back end as well as a new algorithm for splitting groups. 
 
