@@ -4,6 +4,12 @@ All of these projects I have either done for fun or as school work.
 
 ### Assembler
 
+Project at: 
+
+This is my most recent group project, I was a part of it from September 2020 to December 2020. Assembler is a tool for automated group splitting. Its features are course creation for teachers and course registration for students. Then the teacher could split students into groups of certain size and Assembler formed the groups so that the group members' schedules matched as well as possible. We implemented new features in the front end and the back end as well as a new algorithm for splitting groups. 
+
+Tech stack included JavaScript and React in front end, Node.js and TypeScript in back end, Cypress for testing, GraphQL for fetching data and PostgreSQL as a database. 
+
 ### Chess Game
 
 ### Course planner
