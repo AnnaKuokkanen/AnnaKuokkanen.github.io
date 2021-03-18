@@ -6,28 +6,29 @@ All of these projects I have either done for fun or as school work.
 
 Project at: 
 
-This is my most recent group project, I was a part of it from September 2020 to December 2020. Assembler is a tool for automated group splitting. Its features are course creation for teachers and course registration for students. Then the teacher could split students into groups of certain size and Assembler formed the groups so that the group members' schedules matched as well as possible. We implemented new features in the front end and the back end as well as a new algorithm for splitting groups. 
+Assembler is a tool for automated group splitting. Its features are course creation for teachers and course registration for students. Then the teacher could split students into groups of certain size and Assembler formed the groups so that the group members' schedules matched as well as possible. We implemented new features in the front end and the back end as well as a new algorithm for splitting groups. 
 
-Tech stack included JavaScript and React in front end, Node.js and TypeScript in back end, Cypress for testing, GraphQL for fetching data and PostgreSQL as a database. 
+This is my most recent group project, I was a part of it from September 2020 to December 2020.
+
+Tech stack: 
+
+1. JavaScript and React in front end
+2. Node.js and TypeScript in back end
+3. Cypress for testing 
+4. GraphQL for fetching data
+5. PostgreSQL as a database. 
 
 ### Chess Game
+
+Project at: 
+
+I implemented the Minimax algorithm with alpha-beta pruning and used a pre-made template for the graphics of the game.
+
+This was written entirely in Java.
 
 ### Course planner
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
