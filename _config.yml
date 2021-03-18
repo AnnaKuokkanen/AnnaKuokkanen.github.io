@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Welcome to my Portfolio!
-avatar : picOfficial.png
+avatar : ./img/picOfficial.png
 round-avatar: true
 description: >-
   Anna Kuokkanen,
