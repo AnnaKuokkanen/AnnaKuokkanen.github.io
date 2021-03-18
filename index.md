@@ -2,7 +2,11 @@
 
 All of these projects I have either done for fun or as school work. 
 
-### Markdown
+### Assembler
+
+### Chess Game
+
+### Course planner
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
