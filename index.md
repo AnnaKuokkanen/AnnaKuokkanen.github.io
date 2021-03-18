@@ -30,6 +30,6 @@ This a Java Gradle project with JUnit tests.
 
 [**Project here**](https://github.com/AnnaKuokkanen/Kurssiseuranta)
 
-This project is a web application using Python, Flask and SQLAlchemy. The application is running in Heroku. The main goal was to practice building database-based applications. In this project POstgreSQL is used.
+This project is a web application using Python, Flask and SQLAlchemy. The application is running in Heroku. The main goal was to practice building database-based applications. In this project PostgreSQL is used.
 
 ### Thank You for your time ! :)
