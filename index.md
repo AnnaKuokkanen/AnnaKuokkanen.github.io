@@ -2,7 +2,7 @@
 
 All of these projects I have either done for fun or as school work. 
 
-### Assembler
+## Assembler
 
 **Project at:** 
 
@@ -18,15 +18,15 @@ Tech stack:
 4. GraphQL for fetching data
 5. PostgreSQL as a database. 
 
-### Chess Game
+## Chess Game
 
-**Project at:** 
+[**Project here**](https://github.com/AnnaKuokkanen/Shakki)
 
 I implemented the Minimax algorithm with alpha-beta pruning and used a pre-made template for the graphics of the game.
 
 This a Java Gradle project with JUnit tests.
 
-### Course planner
+## Course planner
 
 **Project at:**
 
