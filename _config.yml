@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Welcome to my Portfolio!
-author:
-  name             : "Anna Kuokkanen"
-  avatar           : "picOfficial.png"
-  bio              : "BSc in Computer Science, University of Helsinki"
+author: "Anna Kuokkanen"
+avatar : "picOfficial.png"
+round-avatar: true
+bio: "BSc in Computer Science, University of Helsinki"
