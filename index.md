@@ -2,8 +2,6 @@
 
 All of these projects I have either done for fun or as school work. 
 
-![picOfficial](picOfficial.png)
-
 ### Assembler
 
 **Project at:** 
