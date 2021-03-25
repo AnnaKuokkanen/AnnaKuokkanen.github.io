@@ -18,6 +18,8 @@ Tech stack:
 4. GraphQL for fetching data
 5. PostgreSQL as a database. 
 
+Graded 4/5
+
 ## Chess Game
 
 [**Project here**](https://github.com/AnnaKuokkanen/Shakki)
@@ -26,17 +28,23 @@ I implemented the Minimax algorithm with alpha-beta pruning and used a pre-made 
 
 This a Java Gradle project with JUnit tests.
 
+Graded 5/5
+
 ## Course planner
 
 [**Project here**](https://github.com/AnnaKuokkanen/Kurssiseuranta)
 
 This project is a web application using Python, Flask and SQLAlchemy. The application is running in Heroku. The main goal was to practice building database-based applications. In this project PostgreSQL is used.
 
+Graded 4/5
+
 ## Reading Tip Library
 
 [**Project here**](https://github.com/lauripalonen/lukuvinkkikirjasto)
 
 Group project for saving your reading tips. It is a Java Gradle project using Cucumber and JUnit for testing and running on Heroku. 
+
+Graded 4/5
 
 ## Snake Game
 
@@ -45,5 +53,7 @@ Group project for saving your reading tips. It is a Java Gradle project using Cu
 This is a classic Snake Game. It is one one my first projects in university, written in the beginning of 2019. The game is a basic desktop application, 
 but unfortunately, it uses JavaFX for graphics, which is no longer supported by Java.  The project has some basic things configured, like Checkstyle and also some 
 JUnit tests. 
+
+Graded 3/5
 
 ### Thank You for reading!
