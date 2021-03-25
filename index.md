@@ -46,4 +46,4 @@ This is a classic Snake Game. It is one one my first projects in university, wri
 but unfortunately, it uses JavaFX for graphics, which is no longer supported by Java.  The project has some basic things configured, like Checkstyle and also some 
 JUnit tests. 
 
-### Thank You for your time ! :)
+### Thank You for reading ! :)
