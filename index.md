@@ -1,6 +1,6 @@
 # My Projects
 
-All of these projects I have either done for fun or as school work. 
+All of these projects I have done for school. 
 
 ## Assembler
 
